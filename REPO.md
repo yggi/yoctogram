@@ -8,7 +8,7 @@ name: Yoctogram full
 description: AIO package
 website: https://github.com/yggi/yoctogram
 uri: https://github.com/yggi/yoctogram/blob/main/Library/yggi/yg.md
-
+---
 name: Yoctogram test
 description: test suite
 website: https://github.com/yggi/yoctogram#Test
