@@ -3,7 +3,7 @@ description: Pure-Lua type constructors for the yg.oo.define.class / yg.schema s
 tags: meta/library
 name: Library/yggi/yg/type
 files:
-  - ui.md
+  - ui
 ---
 
 # yg.type
