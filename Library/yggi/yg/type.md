@@ -4,7 +4,6 @@ tags: meta/library
 name: Library/yggi/yg/type
 files:
   - type/ui.md
-  - type/foo.js
 ---
 
 # yg.type
